@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ryan Schubert
 - 👀 I’m interested in ... Data Science, Baketball, and Formula 1
 - 🌱 I’m currently learning ... Data Science
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Machine Learning and Data Visualization Projects
 - 📫 How to reach me ... 
 
 <!---
